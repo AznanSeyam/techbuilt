@@ -49,7 +49,7 @@ export default function RootLayout({
                 About
               </Link>
               <Link
-                href="/services"
+                href="/service"
                 className="hover:text-blue-600 transition-colors"
               >
                 Services

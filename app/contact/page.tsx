@@ -13,7 +13,6 @@ export default function Contact() {
             message below!
           </p>
         </div>
-
         {/* Clean, shadow-styled Contact Form Wrapper */}
         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-100 max-w-xl w-full animate-fade-in-up">
           <form className="space-y-6">

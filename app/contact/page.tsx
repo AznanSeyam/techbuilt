@@ -22,6 +22,7 @@ export default function Contact() {
                 htmlFor="name"
                 className="block text-sm font-semibold text-gray-700 mb-2"
               >
+                
                 Your Name
               </label>
               <input
